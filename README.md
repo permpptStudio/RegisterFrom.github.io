@@ -4,7 +4,7 @@ Click the button to register. A registration form will come out.
 ## Lanquage and etc.
 * html5
 * css3
-* javascrript
+* javaScript
 ![image](https://drive.google.com/uc?export=view&id=1Igi1pJeNdB6E8iKDVizPfugg586W3DKe)
 ## Preview
 ### Image
